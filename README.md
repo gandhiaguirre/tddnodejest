@@ -1,2 +1,2 @@
-# tddnodejest
-Using TDD in our node project using jest
+# TDD  - Node js - JEST
+Using TDD in our node js project using jest
